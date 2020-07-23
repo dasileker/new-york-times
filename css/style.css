@@ -286,10 +286,12 @@ main {
 }
 
 .author {
+  text-decoration: underline;
   font-size: 15px;
   line-height: 1.25rem;
   letter-spacing: 0.02em;
   font-weight: 700;
+  font-style: inherit;
   color: #333;
   margin-bottom: 15px;
 }
@@ -313,6 +315,8 @@ a .author {
 }
 
 .social-media {
+  background-color: #eee;
+  border: 1px #eee solid;
   list-style: none;
   display: inline-block;
   margin: 0 16px 0 0;
@@ -321,8 +325,9 @@ a .author {
 }
 
 .circle {
-  background-color: rgb(160, 157, 157);
-  border: 1px solid rgb(160, 157, 157);
+  background-color: #eee;
+  border: 1px #eee solid;
+  vertical-align: middle;
   border-radius: 100%;
   padding: 5px;
   width: 15px;
