@@ -473,7 +473,7 @@ strong .text-title {
 
 .second-aside {
   width: 210px;
-  margin: 0 0 0 75px;
+  margin: 0 30px 0 75px;
   float: right;
 }
 
@@ -771,11 +771,12 @@ div,
   width: 315px;
   height: 40px;
   border-top: 1px solid rgb(0, 0, 0);
-  padding-top: 17px;
+  padding-top: 5px;
+  margin-bottom: -10px;
 }
 
 .unordered-list1 {
-  margin-top: 15px;
+  margin-top: 10px;
   list-style: none;
 }
 
@@ -816,6 +817,7 @@ div,
 .nyt-logo {
   width: 184px;
   height: 44px;
+  margin-top: -20px;
 }
 
 .go-to-homepage {
@@ -855,14 +857,13 @@ div,
   line-height: 15px;
   text-transform: uppercase;
   width: 150px;
-  margin: 0;
+  margin-bottom: -15px;
   display: block;
 }
 
 .unordered-list {
   list-style: none;
-  margin: 0;
-  padding: 0;
+  margin-top: -5px;
 }
 
 .unordered-list li a {
@@ -871,11 +872,11 @@ div,
   font-family: Georgia, "Times New Roman", Times, serif;
   text-transform: capitalize;
   width: 150px;
-  font-size: 14px;
-  font-weight: 500;
-  height: 23px;
-  line-height: 16px;
+  font-size: 13px;
+  line-height: 2px;
   text-decoration: none;
+  vertical-align: baseline;
+  white-space: pre;
 }
 
 .last-little-column {
@@ -892,9 +893,8 @@ div,
   width: 150px;
   font-size: 16px;
   font-weight: 700;
-  height: 25px;
   line-height: 15px;
-  padding-bottom: 0;
+  margin-top: 12px;
   text-decoration: none;
   white-space: nowrap;
   margin-bottom: 5px;
@@ -1026,7 +1026,7 @@ footer {
 .last-footer {
   font-family: Georgia, "Times New Roman", Times, serif;
   height: 55px;
-  width: 1200px;
+  width: 1349px;
   margin: 0 auto;
   position: fixed;
   bottom: 0;
