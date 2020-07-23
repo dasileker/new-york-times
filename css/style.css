@@ -801,7 +801,6 @@ div,
   margin: 0 auto;
   padding: 0 3% 9px;
   display: block;
-  border-bottom: 1px solid rgb(226, 226, 226);
   border-top: 2px solid rgb(226, 226, 226);
   background-color: white;
 }
@@ -977,6 +976,7 @@ footer {
   height: 56px;
   padding-top: 9px;
   border-top: 1px solid #ebebeb;
+  margin-top: 5px;
 }
 
 #footer ul li a {
@@ -1036,6 +1036,7 @@ footer {
   justify-content: center;
   background-color: white;
   cursor: pointer;
+  margin-left: -75px;
 }
 
 .last-footer-text {
