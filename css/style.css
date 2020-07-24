@@ -156,9 +156,17 @@ table {
   box-sizing: border-box;
 }
 
-.menu-icon {
+.menu-icon button {
+  width: 50px;
+  height: 30px;
   margin-top: 20px;
+  background-color: white;
+  border: 1px solid grey;
   display: inline-block;
+}
+
+.menu-icon span {
+  font-size: 20px;
 }
 
 .search-icon {
