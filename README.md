@@ -6,7 +6,7 @@ This is part of a series of projects to be completed by [Microverse](microverse.
 
 
 # Live Version:
-The demo page can be found [here](https://raw.githack.com/dasileker/new-york-times/new-york/index.html)
+The demo page can be found [here](https://rawcdn.githack.com/dasileker/new-york-times/ca33bf15ee71dcc8e06cf6e2a5799889d69e8734/index.html)
 
 
 
